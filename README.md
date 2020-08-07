@@ -1,5 +1,5 @@
 # Data Warehouse - Project
-![alt text](https://user-images.githubusercontent.com/61973543/89605738-8eae2100-d86e-11ea-879f-42c5fe23ada9.png)
+![alt text](https://user-images.githubusercontent.com/61973543/89606156-99b58100-d86f-11ea-8499-ab21ec0bcda6.png)
 ## Overview
 This project is part of the Business Analytics Project for the chair of Management Information Systems of the TU Bergakademie Freiberg in Summer Semester 2020.
 
