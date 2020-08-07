@@ -7,7 +7,7 @@ The goal is to deliver a documentation and the development process for a data wa
 
 ### Technologies used
 * Tableau Desktop 2020.1
-* Pentaho Data Integration 8.1
+* Pentaho Data Integration 8.2
 
 ## Structure
 ### Folders
@@ -16,6 +16,6 @@ The goal is to deliver a documentation and the development process for a data wa
 * [Pentaho_Process](https://github.com/antivism/BA_Project/tree/master/Pentaho_Process) contains the Kettle-process (.ktr) for Pentaho Data Integration
 * [Tableau_Data](https://github.com/antivism/BA_Project/tree/master/Tableau_Data) contains the Tableau Desktop Worksheets (.twb) created by Tableau Desktop
 ### Documentation files
-* [Project_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/Project_Documentation.pdf) holds the complete development process conducted in German.
-* [ETL_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/ETL_Documentation.pdf) contains a complete step-by-step guide to develop the ETL-pipeline in Pentaho Data Integration.
-* [Tableau_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/Tableau_Documentation.pdf) holds a step-by-step guide to develop a quick map view and time-graph based on the transformed data.
+* [Project_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/Project_Documentation.pdf) holds the complete development process conducted in German
+* [ETL_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/ETL_Documentation.pdf) contains a complete step-by-step guide to develop the ETL-pipeline in Pentaho Data Integration
+* [Tableau_Documentation.pdf](https://github.com/antivism/BA_Project/blob/master/Tableau_Documentation.pdf) holds a step-by-step guide to develop a quick map view and time-graph based on the transformed data
